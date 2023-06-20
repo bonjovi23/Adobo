@@ -1,0 +1,7 @@
+{
+  "name": "Adobo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
